@@ -29,7 +29,8 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-
+    
+    // Record users voice
     @IBAction func recordAudio(sender: UIButton) {
         recordingInProgress.hidden = false
         stopButton.hidden = false

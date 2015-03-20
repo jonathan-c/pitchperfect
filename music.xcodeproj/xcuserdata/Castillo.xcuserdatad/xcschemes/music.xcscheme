@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E7C0CAEA1AB11E9B004A21DB"
-               BuildableName = "Pitch Perfect.app"
+               BuildableName = "music.app"
                BlueprintName = "music"
                ReferencedContainer = "container:music.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E7C0CAFF1AB11E9B004A21DB"
-               BuildableName = "Pitch PerfectTests.xctest"
+               BuildableName = "musicTests.xctest"
                BlueprintName = "musicTests"
                ReferencedContainer = "container:music.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E7C0CAFF1AB11E9B004A21DB"
-               BuildableName = "Pitch PerfectTests.xctest"
+               BuildableName = "musicTests.xctest"
                BlueprintName = "musicTests"
                ReferencedContainer = "container:music.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7C0CAEA1AB11E9B004A21DB"
-            BuildableName = "Pitch Perfect.app"
+            BuildableName = "music.app"
             BlueprintName = "music"
             ReferencedContainer = "container:music.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7C0CAEA1AB11E9B004A21DB"
-            BuildableName = "Pitch Perfect.app"
+            BuildableName = "music.app"
             BlueprintName = "music"
             ReferencedContainer = "container:music.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7C0CAEA1AB11E9B004A21DB"
-            BuildableName = "Pitch Perfect.app"
+            BuildableName = "music.app"
             BlueprintName = "music"
             ReferencedContainer = "container:music.xcodeproj">
          </BuildableReference>

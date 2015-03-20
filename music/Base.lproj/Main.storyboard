@@ -32,9 +32,6 @@
                                 <fontDescription key="fontDescription" name="STHeitiSC-Light" family="Heiti SC" pointSize="15"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
-                                <variation key="widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="165" y="365" width="71" height="15"/>
-                                </variation>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jxh-1m-Vqy">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -50,9 +47,6 @@
                                 <fontDescription key="fontDescription" name="STHeitiSC-Light" family="Heiti SC" pointSize="15"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
-                                <variation key="widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="146" y="370" width="108" height="21"/>
-                                </variation>
                             </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -74,12 +68,12 @@
                                 <exclude reference="log-Me-14G"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="GU3-w1-sIB"/>
-                                <exclude reference="UrW-9F-hcs"/>
                                 <exclude reference="byz-8d-M6L"/>
                                 <exclude reference="qk4-Dg-hH8"/>
                                 <exclude reference="2cw-St-iCs"/>
                                 <exclude reference="A6q-Rg-cpB"/>
+                                <exclude reference="GU3-w1-sIB"/>
+                                <exclude reference="UrW-9F-hcs"/>
                                 <exclude reference="Ek2-Vz-vdY"/>
                                 <exclude reference="HIk-iE-ZVn"/>
                             </mask>
@@ -92,12 +86,12 @@
                                 <include reference="log-Me-14G"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="GU3-w1-sIB"/>
-                                <include reference="UrW-9F-hcs"/>
                                 <include reference="byz-8d-M6L"/>
                                 <include reference="qk4-Dg-hH8"/>
                                 <include reference="2cw-St-iCs"/>
                                 <include reference="A6q-Rg-cpB"/>
+                                <include reference="GU3-w1-sIB"/>
+                                <include reference="UrW-9F-hcs"/>
                                 <include reference="Ek2-Vz-vdY"/>
                                 <include reference="HIk-iE-ZVn"/>
                             </mask>
